@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@grafana/data": "^9.5.1"
+  }
+}
