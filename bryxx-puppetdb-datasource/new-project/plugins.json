@@ -1,0 +1,6 @@
+{
+    "id": "new-module",
+    "type": "datasource",
+    "name": "New Module",
+    "module": "github.com/irinashavoyan/Stage-Bryxx/new-module"
+}
